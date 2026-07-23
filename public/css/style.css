@@ -1,0 +1,370 @@
+        body {
+            background-color: rgb(241, 241, 241);
+            margin: 0;
+            padding: 0;
+        }
+       
+        header {
+            background-color: rgb(1, 12, 77);
+            color: white;
+            display: flex;
+            padding: 0.5em;
+            box-shadow: 4px 4px 10px rgb(93, 91, 110);
+            width: 100%;
+           
+        
+        }
+        nav ul {
+            display: flex;
+            justify-content: space-between;
+            gap: 700px;
+            font-family: cursive; 
+            
+           
+        }
+        nav li {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+        }
+        .logo img {
+            width:  80px;
+            height: 80px;
+        }
+        li .logo {
+            justify-content: flex-start;
+
+        }
+        .timetable {
+            font-size: 3em;
+            font-weight: 900;
+            text-align: center;
+        }
+        .container {
+            margin: 10px;
+            margin-left: 10px;
+            margin-right: 10px;
+            justify-content: center;
+            align-items: center;
+            background-color: rgb(241, 240, 240);
+            border: 1px rgb(190, 188, 188) solid;
+            box-shadow: 5px 8px 13px rgb(75, 70, 116);
+            display: grid;
+            grid-template-columns: repeat(10, 1fr) ;  
+            grid-template-rows: repeat(6, 1fr);
+            overflow-x: auto;
+            margin-bottom: 50px;
+           
+        }
+        .cell {
+            display: flex;
+            height: 7em;
+            border: 1px solid rgb(207, 207, 207);
+            padding: 5px;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 1.4em;
+        }
+        footer {
+            height: 250px;
+            background-color: rgb(5, 17, 87);
+        }
+        .footer {
+            background-color: rgb(1, 12, 77);
+            height: 200px;
+            padding-top: 10px;
+            
+        }
+        p {
+            justify-content: baseline;
+            text-align: center;
+            color: white;
+
+        }
+        button {
+            text-decoration: none;
+            background-color: red;
+            color: white;
+            border: none;
+            width: 80px;
+            margin: 5px;
+            cursor: pointer;
+            height: 40px;
+            border-radius: 11px;
+        }
+        button:hover {
+            background-color: rgb(196, 194, 194);
+            color: black;
+        }
+        .save {
+            background-color: rgb(1, 12, 77);
+            margin-right: 10px;
+        }
+        #one  {
+            font-family: cursive;
+            font-size: 1.3em;
+            font-weight: 500;
+            background-color: rgb(1, 12, 77);
+            color: white;
+            
+        }
+        #two {
+            font-family: cursive;
+            font-size: 1.3em;
+            font-weight: 500;
+            background-color: rgb(1, 12, 77);
+            color: white;
+        }
+        #three {
+            font-family: cursive;
+            font-size: 1.3em;
+            font-weight: 500;
+             background-color: rgb(1, 12, 77);
+             color: white;
+        }
+        #four {
+            font-family: cursive;
+            font-size: 1.3em;
+            font-weight: 500;
+            background-color: rgb(1, 12, 77);
+            color: white;
+        }
+        #five {
+            font-family: cursive;
+            font-size: 1.3em;
+            font-weight: 500;
+            background-color: rgb(1, 12, 77);
+            color: white;
+        }
+        .time {
+            font-family: cursive;
+            font-size: 1.3em;
+            font-weight: 500;
+            background-color: rgb(3, 112, 85);
+            color: white;
+            border: 1px rgb(206, 205, 205) solid;
+        }
+        #generate {
+            width: 300px;
+            height: 80px;
+            background-color: rgb(1, 12, 77);
+            box-shadow: 2px 8px 13px rgb(212, 202, 202);
+            font-family: cursive;
+            margin-left: 650px;
+            margin-bottom: 30px;
+            margin-top: 30px;
+            font-size: 1.3em;
+            justify-content: center;
+            align-items: center;
+        }
+        #generate:hover {
+              background-color: rgb(218, 218, 218);
+              color: black;
+              
+        }
+        #generatedTables table {
+              border-collapse: collapse;
+              margin-top: 20px;
+              width: 100%;
+              border-radius: 13px;
+             margin-bottom: 40px;
+             box-shadow: 2px 8px 13px rgb(219, 215, 215);
+       }
+        #generatedTables th, #generatedTables td {
+              border: 1px solid black;
+              height: 50px;
+              font-size: 1.3em;
+              padding: 5px;
+              text-align: center;
+              
+
+        }
+        .timetable-wrapper {    
+            border-radius: 10px;
+            padding-bottom: 10px;
+            box-shadow: 2px 8px 13px rgb(219, 215, 215); 
+             
+            
+        }
+
+       .generated-table {
+               margin-bottom: 20px;
+               border-radius: 10px;
+               box-shadow: 2px 8px 13px rgb(219, 215, 215);
+        }
+
+       .generated-table th,
+       .generated-table td {
+              border: 1px solid #000;
+              font-size: 1.3em;
+              padding: 6px;
+              text-align: center;
+        }
+        .generated-table th {
+            background-color: rgb(3, 112, 85);
+            color: white;
+        }
+        .generated-table td {
+            background-color: rgb(240, 241, 243);
+        }
+        #new {
+            margin-top: 50px;
+            font-size: 1.6em;
+            padding: 30px;
+            font-weight: 600;
+            margin-left: 20px;
+        }
+        .delete-generated-btn {
+               margin-top: 5px;
+               margin-bottom: 10px;
+               font-family: cursive;
+               width: 200px;
+               height: 50px;
+               font-size: 1.4em;
+               padding: 8px 14px;
+               background-color: red;
+               color: white;
+               border: none;
+               border-radius: 25px;
+               cursor: pointer;
+               display: flex;
+               margin-left: 600px;
+               justify-content: center;
+               text-align: center;
+               align-items: center;
+        }
+        .delete-generated-btn:hover {
+                 background: rgb(228, 226, 226);
+                 color: black;
+         }
+
+
+
+        @media (max-width: 1280px) {
+            body {
+                font-size: 0.8em;
+            }
+            button {
+                width: 60px;
+                height: 30px;
+                font-size: 0.8em;
+            }
+            #generate {
+                 margin-left: 400px;
+                 font-size: 1.4em;
+                 font-weight: 500;
+            }
+            .timetable img{
+                width: 50px;
+                height: 50px;
+            }
+            .logo img {
+                width: 80px;
+                height: 80px;
+            }
+            nav ul {
+                gap: 500px;
+            }
+            .delete-generated-btn  {
+                margin-left: 450px;
+            }
+        }
+        @media (max-width: 1024px) {
+            body {
+                font-size: 0.8em;
+            }
+            button {
+                width: 60px;
+                height: 30px;
+                font-size: 0.8em;
+            }
+            #generate {
+                 margin-left: 300px;
+                 font-size: 1.3em;
+                 font-weight: 400;
+            }
+            .timetable img{
+                width: 50px;
+                height: 50px;
+            }
+            .logo img {
+                width: 80px;
+                height: 80px;
+            }
+            nav ul {
+                gap: 400px;
+            }
+            .button {
+                display: block;
+                justify-content: center;
+                align-items: center;
+            }
+            .delete-generated-btn {
+                margin-left: 350px;
+            }
+        }
+        @media (max-width: 800px) {
+            body {
+                font-size: 0.7em;
+            }
+            .button {
+                display: block;
+                width: 60px;
+                height: 30px;
+                font-size: 0.7em;
+            }
+            #generate {
+                 margin-left: 200px;
+                 font-size: 1.1em;
+                 font-weight: 500;
+            }
+            .timetable img{
+                width: 45px;
+                height: 45px;
+            }
+            .logo img {
+                width: 50px;
+                height: 50px;
+            }
+            nav ul {
+                gap: 300px;
+            }
+            .delete-generated-btn {
+                margin-left: 250px;
+            }
+        }
+        @media (max-width: 600px) {
+            body {
+                font-size: 0.6em;
+            }
+            .button {
+                width: 60px;
+                height: 30px;
+                font-size: 0.8em;
+            }
+            #generate {
+                 margin-left: 100px;
+                 font-size: 0.9em;
+                 font-weight: 200;
+            }
+            .timetable img{
+                width: 40px;
+                height: 40px;
+            }
+            .logo img {
+                width: 50px;
+                height: 50px;
+            }
+            nav ul {
+                gap: 200px;
+            }
+            .delete-generated-btn {
+                margin-left: 150px;
+            }
+            
+        }
+        
