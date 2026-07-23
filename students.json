@@ -1,0 +1,5065 @@
+[
+  {
+    "id": 1765397353455,
+    "timetable": []
+  },
+  {
+    "id": 1765397979121,
+    "timetable": []
+  },
+  {
+    "id": 1765398020825,
+    "timetable": []
+  },
+  {
+    "id": 1765398134012,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": null
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": null
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": null
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": null
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs Aisha Juma",
+          "color": null
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": null
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": null
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": null
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": null
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs Aisha Juma",
+          "color": null
+        }
+      },
+      {
+        "time": "10:00-10:30",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": null
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": null
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": null
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": null
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs Aisha Juma",
+          "color": null
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": null
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": null
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": null
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": null
+        }
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": null,
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": null
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": null
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": null
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": null
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765399123918,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": null,
+          "teacher": null,
+          "color": null
+        },
+        "Tuesday": null,
+        "Wednesday": {
+          "subject": null,
+          "teacher": null,
+          "color": null
+        },
+        "Thursday": null,
+        "Friday": {
+          "subject": null,
+          "teacher": null,
+          "color": null
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "10:00-10:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      }
+    ]
+  },
+  {
+    "id": 1765399392699,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "10:00-10:30",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765399459999,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": null,
+          "teacher": null,
+          "color": null
+        },
+        "Tuesday": {
+          "subject": null,
+          "teacher": null,
+          "color": null
+        },
+        "Wednesday": {
+          "subject": null,
+          "teacher": null,
+          "color": null
+        },
+        "Thursday": {
+          "subject": null,
+          "teacher": null,
+          "color": null
+        },
+        "Friday": {
+          "subject": null,
+          "teacher": null,
+          "color": null
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "10:00-10:30",
+        "Monday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765399544631,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "null",
+          "teacher": "null",
+          "color": "rgb(255, 255, 255)"
+        },
+        "Tuesday": {
+          "subject": "null",
+          "teacher": "null",
+          "color": "rgb(255, 255, 255)"
+        },
+        "Wednesday": {
+          "subject": "null",
+          "teacher": "null",
+          "color": "rgb(255, 255, 255)"
+        },
+        "Thursday": {
+          "subject": "null",
+          "teacher": "null",
+          "color": "rgb(255, 255, 255)"
+        },
+        "Friday": {
+          "subject": "null",
+          "teacher": "null",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": null,
+          "teacher": null,
+          "color": null
+        },
+        "Tuesday": {
+          "subject": null,
+          "teacher": null,
+          "color": null
+        },
+        "Wednesday": {
+          "subject": null,
+          "teacher": null,
+          "color": null
+        },
+        "Thursday": {
+          "subject": null,
+          "teacher": null,
+          "color": null
+        },
+        "Friday": {
+          "subject": null,
+          "teacher": null,
+          "color": null
+        }
+      },
+      {
+        "time": "10:00-10:30",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765399550296,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "10:00-10:30",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765399590840,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "10:00-10:30",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765420731088,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "10:00-10:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Tuesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765420879581,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "10:00-10:30",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765424571477,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "10:00-10:30",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765441342211,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765450463900,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765450826779,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765451007877,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      }
+    ]
+  },
+  {
+    "id": 1765451009957,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      }
+    ]
+  },
+  {
+    "id": 1765451116033,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      }
+    ]
+  },
+  {
+    "id": 1765451136758,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      }
+    ]
+  },
+  {
+    "id": 1765451232213,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      }
+    ]
+  },
+  {
+    "id": 1765453104272,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      }
+    ]
+  },
+  {
+    "id": 1765453998537,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      }
+    ]
+  },
+  {
+    "id": 1765454725332,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      }
+    ]
+  },
+  {
+    "id": 1765454771013,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      }
+    ]
+  },
+  {
+    "id": 1765454902837,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765455443199,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765472540259,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Wednesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765472943644,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765473347065,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765473352806,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765479288122,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765479388019,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1765479440777,
+    "timetable": [
+      {
+        "time": "7:00 - 8:00",
+        "Monday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      },
+      {
+        "time": "8:00-9:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Wednesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Thursday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Friday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        }
+      },
+      {
+        "time": "9:00-10:00",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "ART",
+          "teacher": "Mrs. Ruth Kiptoo",
+          "color": "rgb(209, 196, 233)"
+        },
+        "Thursday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Friday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        }
+      },
+      {
+        "time": "10:30-11:30",
+        "Monday": null,
+        "Tuesday": null,
+        "Wednesday": null,
+        "Thursday": null,
+        "Friday": null
+      },
+      {
+        "time": "11:30-12:30",
+        "Monday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Tuesday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        },
+        "Wednesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "12:30-14:00",
+        "Monday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Tuesday": {
+          "subject": "Natural Science",
+          "teacher": "Mr. Harrison Mwangi",
+          "color": "rgb(179, 229, 252)"
+        },
+        "Wednesday": {
+          "subject": "English",
+          "teacher": "Ms. Sarah Wanjiru",
+          "color": "rgb(255, 224, 178)"
+        },
+        "Thursday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Friday": {
+          "subject": "SPORT",
+          "teacher": "Coach Daniel Ouma",
+          "color": "rgb(255, 204, 188)"
+        }
+      },
+      {
+        "time": "14:00-15:00",
+        "Monday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Tuesday": {
+          "subject": "Applied Science",
+          "teacher": "Mr. Isaac Nsubuga",
+          "color": "rgb(200, 230, 201)"
+        },
+        "Wednesday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Thursday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        },
+        "Friday": {
+          "subject": "Kiswahili",
+          "teacher": "Mrs. Aisha Juma",
+          "color": "rgb(225, 190, 231)"
+        }
+      }
+    ]
+  }
+]
