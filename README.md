@@ -9,7 +9,6 @@ Live Demo
 GitHub Repository
 
 https://github.com/Hamdallah-alhassan68/Generate_Timetable
-
 Overview
 
 Creating school timetables manually is time-consuming and prone to conflicts such as overlapping classes or double-booked resources. This application automates the process by applying scheduling constraints to generate valid timetables efficiently.
