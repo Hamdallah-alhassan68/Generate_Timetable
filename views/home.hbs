@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>IST4035</title>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="css/style.css" />
+    </head>
+    <body onload="fetchStudents()">
+        <header>
+        <nav class="navbar">
+            <ul>
+                <li class="logo"><img src="img/images.jpg" alt=""></li>
+                <li class="timetable"> School TimeTable  <img src="img/schedule.png" alt="" width="80px" height="80px"></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+      
+        <div class="cell time"> Days</div>
+       <div id="cell1" class="cell time">7:00 - 8:00</div>
+        <div class="cell time">8:00 - 9:00</div>
+        <div class="cell time">9:00 - 10:00</div>
+        <div class="cell time">10:00 - 10:30</div>
+        <div class="cell time">10:30 - 11:30</div>
+        <div class="cell time">11:30 - 12:30</div>
+        <div class="cell time">12:30 - 2:00</div>
+        <div class="cell time">2:00 - 3:00</div>
+        <div class="cell time">Editing</div>
+       
+        <!-- Row 2 -->
+        <div id="one" class="cell">Monday</div>
+        <div id="Lang1" class="cell">LANG1</div>
+        <div id="sci1" class="cell">SCI1</div>
+        <div id="art" class="cell">ART</div>
+        <div id="tea" class="cell">TEA BREAK</div>
+        <div id="sci2" class="cell">SCI2</div>
+        <div id="lang2" class="cell">LANG2</div>
+        <div id="lunch" class="cell">LUNCH BREAK</div>
+        <div id="sport" class="cell">SPORT</div>
+        <div class="cell button"> <button onclick="reshuffleDay('one')">Edit</button> <button onclick="saveTimetable('one')" class="save"> Save</button></div>
+       
+
+        <!-- Row 3 -->
+        <div id="two" class="cell">Tuesday</div>
+        <div id="sci2t" class="cell">SCI2</div>
+        <div id="art2" class="cell"> ART</div>
+        <div id="lang1t" class="cell">LANG1</div>
+        <div id="tea2" class="cell">TEA BREAK</div>
+        <div id="sci1t" class="cell">SCI1</div>
+        <div id="lang2t" class="cell">LANG2</div>
+        <div id="lunch2" class="cell">LUNCH BREAK</div>
+        <div id="sport2" class="cell">SPORT</div>
+        <div class="cell button"> <button onclick="reshuffleDay('two')">Edit</button> <button onclick="saveTimetable('two')" class="save"> Save</button></div>
+        
+
+        <!-- Row 4 -->
+        <div id="three" class="cell">Wednesday</div>
+        <div id="lang2w" class="cell">LANG2</div>
+        <div id="sci2w" class="cell">SCI2</div>
+        <div id="art3" class="cell">ART</div>
+        <div id="tea3" class="cell">TEA BREAK</div>
+        <div id="sci1w" class="cell">SCI1</div>
+        <div id="lang1w" class="cell">LANG1</div>
+        <div id="lunch3" class="cell">LUNCH BREAK</div>
+        <div id="sport3" class="cell">SPORT</div>
+        <div class="cell button"> <button onclick="reshuffleDay('three')">Edit</button> <button onclick="saveTimetable('three')" class="save"> Save</button></div>
+
+        <!-- Row 5 -->
+        <div id="four" class="cell">Thursday</div>
+        <div id="lang1th" class="cell">LANG1</div>
+        <div id="sci2th" class="cell">SCI2</div>
+        <div id="lang2th" class="cell">LANG2</div>
+        <div id="tea4" class="cell">TEA BREAK</div>
+        <div id="sci1th" class="cell">SCI1</div>
+        <div id="art4" class="cell">ART</div>
+        <div id="lunch4" class="cell">LUNCH BREAK</div>
+        <div id="sport4" class="cell">SPORT</div>
+        <div class="cell button"> <button onclick="reshuffleDay('four')">Edit</button> <button onclick="saveTimetable('four')" class="save"> Save</button></div>
+
+        <!-- Row 6 -->
+        <div id="five" class="cell">Friday</div>
+        <div id="art5" class="cell">ART</div>
+        <div id="sci1f" class="cell">SCI1</div>
+        <div id="lang1f" class="cell">LANG1</div>
+        <div id="tea" class="cell">TEA BREAK</div>
+        <div id="sci2f" class="cell">SCI2</div>
+        <div id="lang2f" class="cell">LANG2</div>
+        <div id="lunch5" class="cell">LUNCH BREAK</div>
+        <div id="sport5" class="cell">SPORT </div>
+        <div class="cell button"> <button onclick="reshuffleDay('five')">Edit</button> <button onclick="saveTimetable('five')" class="save"> Save</button></div>
+
+    </div>
+    
+     <h2 id="new"></h2> 
+    <div id="generatedTables"></div>
+    <button id="generate" onclick="generateNewTimetable()">Generate New TimeTable</button>
+
+    <footer>
+        <div class="footer">
+        </div>
+         <p>@copyright All right Reserved</p>
+    </footer>
+
+
+    </body>
+    <script src="js/main.js"></script>
+
+</html>
